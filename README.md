@@ -1,3 +1,7 @@
+# DE Zoomcamp 2025 Homework Repository
+
+Welcome 👋 
+This is where I've uploaded the assignments I've completed for the **Datatalks Data Engineering Zoomcamp 2025** course.
 
 ### Module 1: Containerization and Infrastructure as Code
 
@@ -7,6 +11,7 @@
 * Running Postgres locally with Docker
 * Setting up infrastructure on GCP with Terraform
 * Preparing the environment for the course
+
 [**📄 Homework 1: Docker, SQL and Terraform**](Homework_01/)
 
 
@@ -15,6 +20,7 @@
 * Data Lake
 * Workflow orchestration
 * Workflow orchestration with Mage
+
 [**📄 Homework 2: Workflow Orchestration**]()
 
 
@@ -24,6 +30,7 @@
 * Building scalable pipelines
 * Normalising data
 * Incremental loading
+
 [**📄 Workshop 1: Ingestion with dlt**]()
 
 
@@ -35,6 +42,7 @@
 * BigQuery best practices
 * Internals of BigQuery
 * BigQuery Machine Learning
+
 [**📄 Homework 3: Data Warehousing**]()
 
 
@@ -48,6 +56,7 @@
 * Testing and documenting
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
+
 [**📄 Homework 4: Analytics Engineering**]()
 
 
@@ -58,6 +67,7 @@
 * Spark Dataframes
 * Spark SQL
 * Internals: GroupBy and joins
+
 [**📄 Homework 5: Batch**]()
 
 
@@ -67,6 +77,7 @@
 * Schemas (avro)
 * Kafka Streams
 * Kafka Connect and KSQL
+
 [**📄 Homework 6: Streaming**]()
 
 ### Project
@@ -86,5 +97,7 @@ Putting everything we learned to practice
 ## 💻 About Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaqm/)
+
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/valeria-quijada)
+
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0?locale=es)
