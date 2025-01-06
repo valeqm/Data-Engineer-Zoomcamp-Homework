@@ -12,7 +12,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Setting up infrastructure on GCP with Terraform
 * Preparing the environment for the course
 
-[**📄 Homework 1: Docker, SQL and Terraform**](Homework_01/)
+📄[**Homework 1: Docker, SQL and Terraform**](Homework_01/)
 
 
 ### Module 2: Workflow Orchestration
@@ -21,7 +21,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Workflow orchestration
 * Workflow orchestration with Mage
 
-[**📄 Homework 2: Workflow Orchestration**]()
+📄[**Homework 2: Workflow Orchestration**]()
 
 
 ### Workshop 1: Data Ingestion
@@ -31,7 +31,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Normalising data
 * Incremental loading
 
-[**📄 Workshop 1: Ingestion with dlt**]()
+📄[**Workshop 1: Ingestion with dlt**]()
 
 
 ### Module 3: Data Warehouse
@@ -43,7 +43,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Internals of BigQuery
 * BigQuery Machine Learning
 
-[**📄 Homework 3: Data Warehousing**]()
+📄[**Homework 3: Data Warehousing**]()
 
 
 ### Module 4: Analytics engineering
@@ -57,7 +57,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
 
-[**📄 Homework 4: Analytics Engineering**]()
+📄[**Homework 4: Analytics Engineering**]()
 
 
 ### Module 5: Batch processing
@@ -68,7 +68,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Spark SQL
 * Internals: GroupBy and joins
 
-[**📄 Homework 5: Batch**]()
+📄[**Homework 5: Batch**]()
 
 
 ### Module 6: Streaming
@@ -78,7 +78,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Kafka Streams
 * Kafka Connect and KSQL
 
-[**📄 Homework 6: Streaming**]()
+📄[**Homework 6: Streaming**]()
 
 ### Project
 
@@ -87,7 +87,7 @@ Putting everything we learned to practice
 * Week 1 and 2: working on your project
 * Week 3: reviewing your peers
 
-[**🔗 Link to My Project**]()
+🔗[**Link to My Project**]()
 
 
 ## 📖 ZoomCamp Course
