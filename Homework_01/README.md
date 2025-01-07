@@ -2,9 +2,9 @@
 
 "THIS README FILE HAS BEEN MODIFIED TO INCLUDE THE STEPS AND SOLUTIONS FOR THE HOMEWORK."
 
--[Ingest Data](#-solution)
--[Queries](#-all-queries-here)
--[Terraform output](#question-7-creating-resources)
+- [Ingest Data](#-solution)
+- [Queries](#-all-queries-here)
+- [Terraform output](#question-7-creating-resources)
 
 ## Docker & SQL
 
