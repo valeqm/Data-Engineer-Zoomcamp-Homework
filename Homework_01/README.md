@@ -2,6 +2,10 @@
 
 "THIS README FILE HAS BEEN MODIFIED TO INCLUDE THE STEPS AND SOLUTIONS FOR THE HOMEWORK."
 
+[Ingest Data](#solution)
+[Queries](#all-queries-here)
+[Terraform output](#question-7-creating-resources)
+
 ## Docker & SQL
 
 In this homework we'll prepare the environment 
@@ -95,6 +99,7 @@ docker run -it `
   --url=$URL
 ```
 
+##### **📒 All queries [here](./SQL_Queries.sql)**
 
 ## Question 3. Count records 
 
