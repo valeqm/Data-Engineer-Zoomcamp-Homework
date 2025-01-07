@@ -54,7 +54,7 @@ You will also need the dataset with zones:
 
 Download this data and put it into Postgres (with jupyter notebooks or with a pipeline)
 
-**📒 SOLUTION:**
+### **📒 Solution:**
 ##### 1. Build the Docker Image
 ```bash
 docker build -t taxi_ingest:v001 .
