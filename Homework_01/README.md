@@ -86,7 +86,7 @@ docker run -it `
 ```
 - Ingest zone_lookup
 ```bash
-$URL="https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv"
+$URL="https://github.com/DataTalksClub/nyc-tlc-data/releases/download/misc/taxi_zone_lookup.csv"
 
 docker run -it `
   taxi_ingest:v001 `
@@ -114,6 +114,13 @@ Remember that `lpep_pickup_datetime` and `lpep_dropoff_datetime` columns are in 
 - 15859
 - 89009
 
+```bash
+select count(*) as total
+from green_taxi_trips
+where date(lpep_pickup_datetime) = '2019-09-18' and date(lpep_dropoff_datetime) = '2019-09-18';
+```
+
+
 ## Question 4. Longest trip for each day
 
 Which was the pick up day with the longest trip distance?
@@ -125,6 +132,14 @@ Tip: For every trip on a single day, we only care about the trip with the longes
 - 2019-09-16
 - 2019-09-26
 - 2019-09-21
+
+```bash
+select max(trip_distance),date(lpep_pickup_datetime)
+from green_taxi_trips
+group by date(lpep_pickup_datetime)
+order by max(trip_distance) desc
+limit 1;
+```
 
 
 ## Question 5. Three biggest pick up Boroughs
@@ -138,6 +153,18 @@ Which were the 3 pick up Boroughs that had a sum of total_amount superior to 500
 - "Bronx" "Manhattan" "Queens" 
 - "Brooklyn" "Queens" "Staten Island"
 
+```bash
+select zl."Borough", sum(gtt.total_amount) as total
+from green_taxi_trips gtt 
+inner join zone_lookup zl 
+on gtt."PULocationID" = zl."LocationID"
+where date(gtt.lpep_pickup_datetime)='2019-09-18' and zl."Borough" != 'Unknown'
+group by zl."Borough" 
+having sum(gtt.total_amount)>50000
+order by total desc
+limit 3;
+```
+
 
 ## Question 6. Largest tip
 
@@ -150,6 +177,18 @@ Note: it's not a typo, it's `tip` , not `trip`
 - Jamaica
 - JFK Airport
 - Long Island City/Queens Plaza
+
+```bash
+select gtt.tip_amount,zl_do."Zone" as "DOZone"
+from green_taxi_trips gtt
+inner join zone_lookup zl_pu 
+	on gtt."PULocationID" = zl_pu."LocationID"
+inner join zone_lookup zl_do 
+	on gtt."DOLocationID" = zl_do."LocationID"
+where TO_CHAR(gtt.lpep_pickup_datetime, 'YYYY-MM') = '2019-09' and zl_pu."Zone"='Astoria'
+order by gtt.tip_amount desc
+limit 1;
+```
 
 
 
@@ -173,6 +212,12 @@ terraform apply
 ```
 
 Paste the output of this command into the homework submission form.
+
+### **📒 Output:**
+
+```bash
+---
+```
 
 
 ## Submitting the solutions
