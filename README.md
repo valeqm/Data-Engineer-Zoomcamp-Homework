@@ -19,7 +19,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 
 * Data Lake
 * Workflow orchestration
-* Workflow orchestration with Mage
+* Workflow orchestration with Kestra
 
 📄[**Homework 2: Workflow Orchestration**]()
 
