@@ -3,6 +3,10 @@
 Welcome 👋 
 This is where I've uploaded the assignments I've completed for the **Datatalks Data Engineering Zoomcamp 2025** course.
 
+## Overview
+
+<img src="images/architecture/arch_v4_workshops.jpg" />
+
 ### Module 1: Containerization and Infrastructure as Code
 
 * Course overview
