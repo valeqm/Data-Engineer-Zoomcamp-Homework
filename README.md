@@ -5,7 +5,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 
 ## Overview
 
-<img src="images/architecture/arch_v4_workshops.jpg" />
+<img src="images/arch_v4_workshops.jpg" />
 
 ### Module 1: Containerization and Infrastructure as Code
 
