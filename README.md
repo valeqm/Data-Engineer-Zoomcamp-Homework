@@ -25,7 +25,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Workflow orchestration
 * Workflow orchestration with Kestra
 
-📄[**Homework 2: Workflow Orchestration**]()
+📄[**Homework 2: Workflow Orchestration**](Homework_02/)
 
 
 ### Workshop 1: Data Ingestion
@@ -35,7 +35,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Normalising data
 * Incremental loading
 
-📄[**Workshop 1: Ingestion with dlt**]()
+📄[**Workshop 1: Ingestion with dlt**](Workshop_01/)
 
 
 ### Module 3: Data Warehouse
@@ -47,7 +47,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Internals of BigQuery
 * BigQuery Machine Learning
 
-📄[**Homework 3: Data Warehousing**]()
+📄[**Homework 3: Data Warehousing**](Homework_03/)
 
 
 ### Module 4: Analytics engineering
@@ -61,7 +61,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
 
-📄[**Homework 4: Analytics Engineering**]()
+📄[**Homework 4: Analytics Engineering**](Homework_04/)
 
 
 ### Module 5: Batch processing
@@ -72,7 +72,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Spark SQL
 * Internals: GroupBy and joins
 
-📄[**Homework 5: Batch**]()
+📄[**Homework 5: Batch**](Homework_05/)
 
 
 ### Module 6: Streaming
@@ -82,7 +82,7 @@ This is where I've uploaded the assignments I've completed for the **Datatalks D
 * Kafka Streams
 * Kafka Connect and KSQL
 
-📄[**Homework 6: Streaming**]()
+📄[**Homework 6: Streaming**](Homework_06/)
 
 ### Project
 
