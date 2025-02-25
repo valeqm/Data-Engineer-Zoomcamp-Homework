@@ -125,4 +125,12 @@ OPTIONS (
 
 --Create Table fvh_tripdata
 CREATE OR REPLACE TABLE `woven-nova-447816-e0.trips_data_all.fhv_tripdata_internal` AS
-SELECT * FROM `woven-nova-447816-e0.trips_data_all.ext_fhv_tripdata`;
+SELECT 
+    dispatching_base_num,
+    TIMESTAMP(pickup_datetime) AS pickup_datetime,
+    TIMESTAMP(dropOff_datetime) AS dropOff_datetime,
+    SAFE_CAST(PUlocationID AS INT64) AS PUlocationID,
+    SAFE_CAST(DOlocationID AS INT64) AS DOlocationID,
+    SR_Flag,
+    Affiliated_base_number
+FROM `woven-nova-447816-e0.trips_data_all.ext_fhv_tripdata`;
