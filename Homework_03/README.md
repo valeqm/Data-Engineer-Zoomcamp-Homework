@@ -2,7 +2,7 @@
 
 "THIS README FILE HAS BEEN MODIFIED TO INCLUDE THE STEPS AND SOLUTIONS FOR THE HOMEWORK."
 
-**To create the dataset and the bucket, I used Terraform.**[here](./terraform)
+**To create the dataset and the bucket, I used Terraform.** [here](./terraform)
 
 <b><u>Important Note:</b></u> <p> For this homework we will be using the Yellow Taxi Trip Records for **January 2024 - June 2024 NOT the entire year of data** 
 Parquet Files from the New York

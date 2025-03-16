@@ -2,6 +2,8 @@
 
 "THIS README FILE HAS BEEN MODIFIED TO INCLUDE THE STEPS AND SOLUTIONS FOR THE HOMEWORK."
 
+**Complete code.** [here](./Homework_05.ipynb) 
+
 In this homework we'll put what we learned about Spark in practice.
 
 For this homework we will be using the Yellow 2024-10 data from the official website: 
