@@ -91,7 +91,7 @@ Putting everything we learned to practice
 * Week 1 and 2: working on your project
 * Week 3: reviewing your peers
 
-🔗[**Link to My Project**]()
+🔗[**Link to My Project**](https://github.com/valeqm/World-Disaster-Pipeline/tree/main)
 
 
 ## 📖 ZoomCamp Course
