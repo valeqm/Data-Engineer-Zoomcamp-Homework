@@ -102,9 +102,7 @@ Putting everything we learned to practice
 
 ## 👤 Author  
 
-- **Valeria Q.M**  
-
-[LinkedIn](https://www.linkedin.com/in/valeriaqm/) • 
+- **Valeria Q.M**  •  [LinkedIn](https://www.linkedin.com/in/valeriaqm/) • 
 [Credly](https://www.credly.com/users/valeria-quijada) • 
 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0?locale=es)
 
