@@ -100,14 +100,8 @@ Putting everything we learned to practice
 
 ## 👤 Author  
 
-- **Valeria Q.M**  
+- **Valeria Q.M**   
 
-<a href="https://www.linkedin.com/in/valeriaqm/" style="display: inline-block; padding: 5px 10px; background-color: #0A66C2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    💼 LinkedIn
-</a>
-<a href="https://www.linkedin.com/in/valeriaqm/" style="display: inline-block; padding: 5px 10px; background-color: Orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    🎖️ Credly
-</a>
-<a href="https://www.linkedin.com/in/valeriaqm/" style="display: inline-block; padding: 5px 10px; background-color: black; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    ☁️ Google Cloud Skill Boost
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaqm/)
+[![Credly](https://img.shields.io/badge/Credly-FFA500?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/valeria-quijada)
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-000000?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0?locale=es)
