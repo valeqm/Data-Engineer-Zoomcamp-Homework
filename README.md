@@ -98,8 +98,6 @@ Putting everything we learned to practice
 
 [![Data Engineering Zoomcamp](https://img.shields.io/badge/Data_Engineering_Zoomcamp-28A745?style=for-the-badge&logo=none)](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
----
-
 ## 👤 Author  
 
 - **Valeria Q.M**   
