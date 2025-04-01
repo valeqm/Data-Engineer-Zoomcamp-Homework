@@ -100,7 +100,14 @@ Putting everything we learned to practice
 
 ## 👤 Author  
 
-- **Valeria Q.M**  •  [LinkedIn](https://www.linkedin.com/in/valeriaqm/) • 
-[Credly](https://www.credly.com/users/valeria-quijada) • 
-[Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0?locale=es)
+- **Valeria Q.M**  
 
+<a href="https://www.linkedin.com/in/valeriaqm/" style="display: inline-block; padding: 5px 10px; background-color: #0A66C2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    💼 LinkedIn
+</a>
+<a href="https://www.linkedin.com/in/valeriaqm/" style="display: inline-block; padding: 5px 10px; background-color: Orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    🎖️ Credly
+</a>
+<a href="https://www.linkedin.com/in/valeriaqm/" style="display: inline-block; padding: 5px 10px; background-color: black; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    ☁️ Google Cloud Skill Boost
+</a>
