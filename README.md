@@ -106,4 +106,4 @@ Putting everything we learned to practice
     [![Credly](https://img.shields.io/badge/-Credly-000000?style=flat&logoColor=white)](https://www.credly.com/users/valeria-quijada)
     [![Google Cloud Skill Boost](https://img.shields.io/badge/-Google%20Skills-000000?style=flat&logo=googlecloud&logoColor=white)](https://www.cloudskillsboot.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0?locale=es)
     [![GitHub](https://img.shields.io/badge/--000000?style=flat&logo=github&logoColor=white&label=)](https://github.com/valeqm)
-    [![Reddit](https://img.shields.io/badge/--000000?style=flat&logo=reddit&logoColor=white&label=)](https://www.reddit.com/user/your-username)
+    [![Reddit](https://img.shields.io/badge/--000000?style=flat&logo=reddit&logoColor=white&label=)](https://www.reddit.com/)
