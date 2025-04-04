@@ -102,8 +102,8 @@ Putting everything we learned to practice
 
 - **Valeria Q.M** 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaqm/)
-[![Credly](https://img.shields.io/badge/-Credly-000000?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/valeria-quijada)
-[![Google Cloud Skill Boost](https://img.shields.io/badge/-Google%20Cloud%20Skill%20Boost-000000?style=flat&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0?locale=es)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/valeqm)
-[![Reddit](https://img.shields.io/badge/-Reddit-000000?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaqm/)
+[![Credly](https://img.shields.io/badge/-Credly-FFA500?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/valeria-quijada)
+[![Google Cloud Skill Boost](https://img.shields.io/badge/-Google%20Cloud%20Skill%20Boost-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0?locale=es)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/valeqm)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-username)
