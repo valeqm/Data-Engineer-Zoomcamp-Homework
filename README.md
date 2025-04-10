@@ -105,13 +105,9 @@ Putting everything we learned to practice
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaqm/) 
 <a href="https://www.credly.com/users/valeria-quijada" target="_blank">
   <img height="20" src="https://cdn.simpleicons.org/credly?viewbox=auto" />
-</a>
 <a href="https://www.cloudskillsboost.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0" target="_blank">
   <img height="20" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto" />
-</a>
 <a href="https://github.com/valeqm" target="_blank">
   <img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
-</a>
 <a href="https://www.reddit.com/" target="_blank">
   <img height="20" src="https://cdn.simpleicons.org/reddit?viewbox=auto" />
-</a>
