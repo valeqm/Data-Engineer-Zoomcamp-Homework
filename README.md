@@ -100,10 +100,10 @@ Putting everything we learned to practice
 
 ## 👤 Author  
 
-- **Valeria Q.M** 
+**Valeria Q.M** 
 
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/valeriaqm/)
-    [![Credly](https://img.shields.io/badge/-Credly-000000?style=flat&logoColor=white)](https://www.credly.com/users/valeria-quijada)
-    [![Google Cloud Skill Boost](https://img.shields.io/badge/-Google%20Skills-000000?style=flat&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/36f6887c-3fbb-4cab-9f3b-74f534cf89b0)
-    [![GitHub](https://img.shields.io/badge/--000000?style=flat&logo=github&logoColor=white&label=)](https://github.com/valeqm)
-    [![Reddit](https://img.shields.io/badge/--000000?style=flat&logo=reddit&logoColor=white&label=)](https://www.reddit.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriaqm/) 
+<img height="20" src="https://cdn.simpleicons.org/credly?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/reddit?viewbox=auto" />
